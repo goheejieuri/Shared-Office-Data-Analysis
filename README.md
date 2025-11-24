@@ -32,6 +32,8 @@
   - 마지막 방문 시점  
 
 ➡ 결제 전환은 **이용 패턴 변수(약 80%)**가 가장 강하게 영향을 미침
+<img width="513" height="286" alt="image" src="https://github.com/user-attachments/assets/77e3d1f2-81e7-473f-b40d-efaacbac2659" />
+
 
 ---
 
